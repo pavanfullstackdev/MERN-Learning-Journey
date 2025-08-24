@@ -1,6 +1,6 @@
 # 🔵 Day 3 - Conditions & Loops  
 
-> 📅 Date: 23rd August 2025  
+> 📅 Date: 24th August 2025  
 > 🏁 Milestone: Learned how to control program flow with **conditions** and repeat tasks using **loops**  
 
 ---
